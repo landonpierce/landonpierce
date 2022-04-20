@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Landon 👋
+I'm a Customer Engineer on the FastTrack for Azure team at Microsoft.
 
 <!--
 **landonpierce/landonpierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
